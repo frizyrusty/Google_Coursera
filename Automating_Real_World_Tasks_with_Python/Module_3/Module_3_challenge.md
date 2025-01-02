@@ -19,9 +19,6 @@
 ---
 
 
-
-Review Qwiklabs assessment: Automatically generate a PDF and send it by email.
-
 **2. In the example.py script, how does Python know what to include in the report PDF? Select all that apply.**
 
 > **The table_data= command stores the list of fruits for the PDF.** (Correct)
