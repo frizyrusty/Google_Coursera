@@ -266,8 +266,8 @@ print(sector_amount) # Should print 33554432.0
 ```python
 # Enter code here:
 alphabets = 26
-pass = alphabets ** 3
-print(alphabets)
+passw = alphabets ** 3
+print(passw)
 
 # Should print 17576
 ```
