@@ -1,6 +1,6 @@
 ## Quiz Results
 
-**Summary:** 4 out of 5 questions answered correctly.
+**Summary:** 5 out of 5 questions answered correctly.
 
 **Questions:**
 
@@ -16,9 +16,10 @@
 
 **Correct:** At a basic level, a computer program is a recipe of instructions that tells your computer what to do.
 
+
 **2. What’s the syntax of a language?**
 
-> The rules of how to express things in that language
+> **The rules of how to express things in that language**
 > 
 > The subject of a sentence
 > 
@@ -28,9 +29,10 @@
 
 **Correct:** In a human language, syntax is the rules for how a sentence is constructed, and in a programming language, syntax is the rules for how each instruction is written.
 
+
 **3. What’s the difference between a program and a script?**
 
-> There’s not much difference, but scripts are usually simpler and shorter.
+> **There’s not much difference, but scripts are usually simpler and shorter.**
 > 
 > Scripts are only written in Python.
 > 
@@ -39,6 +41,7 @@
 > Programs are written by software engineers; scripts are written by system administrators.
 
 **Correct:** The line between a program and a script is blurry; scripts usually have a shorter development cycle. This means that scripts are shorter, simpler, and can be written very quickly.
+
 
 **4. Which of these scenarios are good candidates for automation? Select all that apply.**
 
