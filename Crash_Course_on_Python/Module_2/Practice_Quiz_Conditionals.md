@@ -47,7 +47,7 @@ elif number >= 20 or number < 12:
 else:
   print(3)
 ```
-**Answer: ** 2
+**Answer:** 2
 
 
 **Correct**
