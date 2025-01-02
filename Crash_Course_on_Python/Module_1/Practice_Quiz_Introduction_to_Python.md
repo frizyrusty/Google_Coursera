@@ -33,6 +33,9 @@ print("Have a nice day")
 
 **Correct:** Great job! You used the correct syntax, with proper punctuation, to make this code work in Python.
 
+---
+
+
 **4. In the code block below, replace ___ with the Python command that will display “This is fun!” on the screen 5 times.**
 
 ```python
