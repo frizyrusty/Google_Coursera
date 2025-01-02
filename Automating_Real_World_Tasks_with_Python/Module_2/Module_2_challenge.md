@@ -6,9 +6,9 @@
 
 > pickle.dumps() (Incorrect)
 >
-> **json.dumps()** (Incorrect)
+> json.dumps() (Incorrect)
 >
-> requests.post() (Correct)
+> **requests.post()** (Correct)
 >
 > dict() (Incorrect)
 
