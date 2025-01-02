@@ -1,4 +1,4 @@
-## Module 1 challenge: Hello Python!
+## Practice quiz: Expressions and variables
 
 
 **1. This code is supposed to display the equation 2 + 2 = 4 on the screen, but there is an error. Find the error in the code and fix it, so that the output displays the equation.**
