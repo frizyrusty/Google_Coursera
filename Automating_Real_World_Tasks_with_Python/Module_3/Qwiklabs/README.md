@@ -23,3 +23,7 @@ You work for a company that sells second-hand cars. Management wants to get a su
 **Time Limit**
 
 You'll have 90 minutes to complete this lab.
+
+
+**Note:** Save the external IP address
+![image](https://github.com/user-attachments/assets/cb83b838-a2e4-4219-9053-b2a755c028ca)
