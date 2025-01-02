@@ -35,11 +35,11 @@
 
 **3. What are some of the benefits of automation? Select all that apply.**
 
-> **More cost-effective for complex, seldom-done tasks**
+> More cost-effective for complex, seldom-done tasks
 >
-> Consistency 
+> **Consistency**
 >
-> **Can accomplish creative tasks** 
+> Can accomplish creative tasks
 >
 > **Doesn’t get tired**
 
@@ -51,7 +51,7 @@
 
 **4. What is the term for the set of rules for how statements are constructed in a programming language?**
 
-> Syntax
+> **Syntax**
 >
 > Grammar
 >
@@ -111,3 +111,41 @@ print(12/(1+2)+2**2)
 > 81.0
 
 **Correct**
+
+
+---
+
+**8. In one year, if there are 365 days, with 24 hours in a day, , write a program to calculate the number of hours in a year. Print the result on the screen. Note: Your result should be in the format of just a number, not a sentence.**
+
+
+```python
+# Enter code here:
+print(24*365)
+
+# Should print 8760
+```
+
+**Correct**
+
+
+---
+
+
+**9. In a passcode where each digit of the passcode is independent of the other digits and each digit can be any numeral from 0 through 9, the total number of combinations is the number of possibilities for each digit raised to the power of the length of the passcode. So, for a 1-numeral passcode, there would be 10 possibilities; one for every numeral from 0 to 9.  For a 2-numeral passcode, each numeral is independent of the other, so there would be 10 times 10 possibilities.**
+
+
+Using this information, use Python to calculate and print the number of possible passwords that can be formed with 3 numerals. 
+
+**Note:** Your result should be in the number format, not a sentence.
+
+```python
+# Should print 1000
+print(10**3)
+```
+
+
+**Correct**
+
+
+---
+
