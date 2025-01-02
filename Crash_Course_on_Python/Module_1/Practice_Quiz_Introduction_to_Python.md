@@ -25,6 +25,9 @@ print("My first Python program")
 
 **Correct:** You got it! Python is one of the general purpose scripting languages that are widely used for scripting and automation.
 
+---
+
+
 **3. The code block below contains a Bash command to display “Have a nice day” on the screen. Convert this Bash command to a Python command.**
 
 ```python
@@ -44,6 +47,9 @@ for i in range(5):
 ```
 
 **Correct:** Well done! You remembered how to use the "print" command do the work.
+
+---
+
 
 **5. Why is Python relevant to IT? Select all that apply.**
 
