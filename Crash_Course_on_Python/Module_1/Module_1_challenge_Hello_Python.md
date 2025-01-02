@@ -1,0 +1,113 @@
+## Module 1 challenge: Hello Python!
+
+
+**1. Once you have learned the basics of a programming language, how does this affect your ability to learn and use a second programming language?**
+
+> It’s difficult to learn and use a second language.
+>
+> **It’s easier to learn and use a second language.**
+>
+> You should only code in one language.
+>
+> The syntax and semantics will be the same.
+
+**Correct**
+
+
+---
+
+
+**2. What is a function?**
+
+> A document describing a software project
+>
+> The beginning of a program defining who wrote it and why
+>
+> The task a program is written to accomplish
+>
+> **A reusable block of code that performs a specific task**
+
+**Correct**
+
+
+---
+
+
+**3. What are some of the benefits of automation? Select all that apply.**
+
+> **More cost-effective for complex, seldom-done tasks**
+>
+> Consistency 
+>
+> **Can accomplish creative tasks** 
+>
+> **Doesn’t get tired**
+
+**Correct**
+
+
+---
+
+
+**4. What is the term for the set of rules for how statements are constructed in a programming language?**
+
+> Syntax
+>
+> Grammar
+>
+> Format
+>
+> Semantics
+
+**Correct**
+
+
+---
+
+
+**5. What is the program that reads and executes Python code by translating it to computer instructions called?**
+
+> Linker
+>
+> Translator
+>
+> **Interpreter**
+>
+> Compiler
+
+**Correct**
+
+
+---
+
+
+**6. Complete the code so that the string "I am writing Python code!" will print to the screen. Remember that syntax precision is important in programming languages. A missing capital letter, spelling error, or punctuation mark can produce errors.**
+
+```python
+# Replace the blanks with the correct code and syntax:
+print("I am writing Python code!")
+
+# Should print: I am writing Python code!
+```
+
+**Correct**
+
+
+---
+
+
+**7. What should be the output of the expression below?**
+
+```python
+print(12/(1+2)+2**2)
+```
+
+> **8.0**
+> 
+> 6.0
+> 
+> 15.0
+> 
+> 81.0
+
+**Correct**
