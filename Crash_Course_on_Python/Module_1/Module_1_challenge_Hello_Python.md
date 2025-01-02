@@ -165,3 +165,36 @@ print(computers_per_year) # Should print 120.0
 ```
 
 **Correct**
+
+
+---
+
+
+**11. What is a computer program?**
+
+> **Step-by-step instructions on how to complete a set of tasks, to be executed by a computer.**
+> 
+> The syntax and semantics of a programming language. 
+> 
+> The overview of what the computer will have to do to solve an automation problem. 
+> 
+> A file that gets printed by the Python interpreter. 
+
+**Correct**
+
+---
+
+**12. Which of the following are true about programming languages? Select all that apply.**
+
+> **Similar to human language, programming languages use syntax and semantics.**
+> 
+> **Programming languages are used to write computer programs and scripts.**
+> 
+> Programming languages is a synonym for pseudocode. 
+> 
+> **Some common programming languages include Python, Java, C, C++, C#, and R.**
+
+**Correct**
+
+---
+
