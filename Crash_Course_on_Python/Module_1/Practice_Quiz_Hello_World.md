@@ -1,4 +1,4 @@
-## Quiz Results
+## Practice Quiz: Hello World
 
 **Summary:** 5 out of 5 questions answered correctly.
 
@@ -16,6 +16,9 @@
 
 **Correct:** Python functions encapsulate a certain action, like outputting a message to the screen in the case of print().
 
+---
+
+
 **2. What are keywords in Python?**
 
 > **Keywords are reserved words that are used to construct instructions.**
@@ -27,6 +30,9 @@
 > Keywords are the words that we need to memorize to program in Python.
 
 **Correct:** Using the reserved words provided by the language we can construct complex instructions that will make our scripts.
+
+---
+
 
 **3. What does the print function do in Python?**
 
@@ -40,6 +46,9 @@
 
 **Correct:** Using the print() we can generate output for the user of our programs.
 
+---
+
+
 **4. Output a message that says "Programming in Python is fun!" to the screen.**
 
 ```python
@@ -47,6 +56,9 @@ print("Programming in Python is fun!")
 ```
 
 **Correct:** Awesome job! See how we can use Python to calculate complex values for us.
+
+---
+
 
 **5. Replace the ___ placeholder to calculate the square root of 9.**
 
