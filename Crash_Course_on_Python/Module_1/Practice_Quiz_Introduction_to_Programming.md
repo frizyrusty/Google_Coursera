@@ -16,6 +16,9 @@
 
 **Correct:** At a basic level, a computer program is a recipe of instructions that tells your computer what to do.
 
+---
+
+
 
 **2. What’s the syntax of a language?**
 
@@ -29,6 +32,9 @@
 
 **Correct:** In a human language, syntax is the rules for how a sentence is constructed, and in a programming language, syntax is the rules for how each instruction is written.
 
+---
+
+
 
 **3. What’s the difference between a program and a script?**
 
@@ -41,6 +47,9 @@
 > Programs are written by software engineers; scripts are written by system administrators.
 
 **Correct:** The line between a program and a script is blurry; scripts usually have a shorter development cycle. This means that scripts are shorter, simpler, and can be written very quickly.
+
+---
+
 
 
 **4. Which of these scenarios are good candidates for automation? Select all that apply.**
@@ -56,6 +65,9 @@
 > Interviewing a candidate for a job
 > 
 > Investigating the root cause of a machine failing to boot
+
+---
+
 
 **5. What are semantics when applied to programming code?**
 
