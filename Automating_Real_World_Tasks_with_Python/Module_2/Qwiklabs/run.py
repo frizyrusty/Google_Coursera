@@ -36,7 +36,7 @@ for feedback_file in feedback_files:
     print("Feedback data to be sent:", feedback_data)
 
     # Send the feedback data to the web server.
-    response = requests.post("http://<Change to your lab IP Address>/feedback/", json=feedback_data)
+    response = requests.post("http://<corpweb external IP address>/feedback/", json=feedback_data)
 
     # Print the response body and status code for debugging.
     print("Request body:", response.request.body)
