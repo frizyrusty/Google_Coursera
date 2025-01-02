@@ -10,8 +10,7 @@
 print("My first Python program")
 ```
 Correct: Way to go! You've given the computer the correct instruction in Python to do what you’ve asked of it.
-****
-****
+---***___
 **2. Python is an example of what type of programming language?**
 
 > **General purpose scripting language**
