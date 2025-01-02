@@ -149,3 +149,19 @@ print(10**3)
 
 ---
 
+
+**10. Consider this scenario about using Python to make calculations:**
+
+On a college campus, there are 30 computers in each of the 20 computer labs that are spread across campus.  The computers have a life cycle where they are replaced every five  years. One-fifth of the computers are replaced each year. 
+
+Fill in the blank to calculate the number of computers that are replaced each year by dividing the total computers by the replacement cycle. Note: Your result should be a number. 
+
+```python
+total_computers = 30*20
+replacement_cycle = 5
+computers_per_year = total_computers / replacement_cycle
+
+print(computers_per_year) # Should print 120.0
+```
+
+**Correct**
