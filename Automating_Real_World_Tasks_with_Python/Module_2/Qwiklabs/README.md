@@ -24,3 +24,6 @@ You're working at a company that sells second-hand cars. Your company constantly
 **Time Limit**
 
 You'll have 90 minutes to complete this lab.
+
+**Note:** You need save the "corpweb external IP address"
+![image](https://github.com/user-attachments/assets/490aecf7-3ce8-4463-9808-45f9bf1f89df)
