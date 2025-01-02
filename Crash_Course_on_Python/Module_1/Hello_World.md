@@ -49,7 +49,8 @@ print("Programming in Python is fun!")
 **Correct:** Awesome job! See how we can use Python to calculate complex values for us.
 
 **5. Replace the ___ placeholder to calculate the square root of 9.**
-Tip: to calculate the square root of a number x, you can use x****(1/2).
+
+Tip: To calculate the square root of a number `x`, you can use `x**(1/2)`.
 
 ```python
 ratio = 9**(1/2)
