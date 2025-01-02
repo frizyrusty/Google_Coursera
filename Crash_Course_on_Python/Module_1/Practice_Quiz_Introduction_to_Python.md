@@ -13,13 +13,13 @@ Correct: Way to go! You've given the computer the correct instruction in Python 
 
 2. Python is an example of what type of programming language?
 
-General purpose scripting language
-
-Machine language
-
-Client-side scripting language
-
-Platform-specific scripting language
+> **General purpose scripting language**
+> 
+> Machine language
+> 
+> Client-side scripting language
+> 
+> Platform-specific scripting language
 
 Correct: You got it! Python is one of the general purpose scripting languages that are widely used for scripting and automation.
 
