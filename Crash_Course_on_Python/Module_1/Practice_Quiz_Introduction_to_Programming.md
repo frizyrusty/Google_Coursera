@@ -81,4 +81,3 @@
 
 **Correct:** The intended meaning or effect of coded statements are referred to as semantics. 
 
-This Markdown file can then be rendered on platforms like GitHub, GitLab, or other Markdown viewers to display the quiz results in a structured and readable format.
