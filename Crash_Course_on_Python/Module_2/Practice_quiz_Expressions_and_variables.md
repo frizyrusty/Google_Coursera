@@ -11,7 +11,7 @@ print("2 + 2 = " + str(2 + 2))
 ```
 
 
-**Correct: ** Way to go! You noticed the missing conversion into string, and fixed it!
+**Correct**
 
 
 ---
@@ -30,7 +30,7 @@ print("Each person needs to pay:" + str(total/share)) # Enter the required strin
 ```
 
 
-**Correct: ** Great work! You’ve given the computer correct instructions at each step, paying attention to every detail, and it paid off!
+**Correct**
 
 
 ---
@@ -47,7 +47,7 @@ print(result)
 ```
 
 
-**Correct: ** 
+**Correct** 
 
 
 ---
@@ -71,7 +71,7 @@ print(sentence)
 ```
 
 
-**Correct: ** 
+**Correct** 
 
 
 ---
