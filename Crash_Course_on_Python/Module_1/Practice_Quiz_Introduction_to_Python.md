@@ -33,10 +33,11 @@ print("Have a nice day")
 
 **4. In the code block below, replace ___ with the Python command that will display “This is fun!” on the screen 5 times.**
 
-Python
-
+```python
 for i in range(5):
   print("This is fun!")
+```
+
 **Correct:** Well done! You remembered how to use the "print" command do the work.
 
 **5. Why is Python relevant to IT? Select all that apply.**
