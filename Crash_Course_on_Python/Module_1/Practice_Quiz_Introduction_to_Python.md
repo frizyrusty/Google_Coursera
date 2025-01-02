@@ -1,4 +1,4 @@
-## Quiz Results
+## Practice Quiz: Introduction to Python
 
 **Summary:** 5 out of 5 questions answered correctly.
 
